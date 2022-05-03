@@ -1,6 +1,6 @@
 {
   "name": "@halil-pan/algorithm",
-  "version": "0.0.0-semantic-release",
+  "version": "1.0.0",
   "description": "the practice of algorithms",
   "scripts": {
     "test": "xv dist",
