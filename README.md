@@ -13,7 +13,11 @@
   <a href='https://open.vscode.dev/halil-pan/algorithm'><image src='https://open.vscode.dev/badges/open-in-vscode.svg' alt='Open in Visual Studio Code'/></a>
 </p>
 
-<p align='center'><samp>the practice of algorithms</samp></p>
+<p align='center'><samp>the practice of algorithm</samp></p>
+
+## Index
+
+- [rotate-array](./src/rotate-array.ts)
 
 ## License
 

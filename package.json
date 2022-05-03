@@ -1,7 +1,7 @@
 {
   "name": "@halil-pan/algorithm",
   "version": "1.0.0",
-  "description": "the practice of algorithms",
+  "description": "the practice of algorithm",
   "scripts": {
     "test": "xv dist",
     "lint": "xo",
