@@ -1,28 +1,17 @@
 {
-  "name": "@halil-pan/ts-lib-template",
-  "version": "1.2.1",
-  "description": "awesome library",
-  "main": "./dist/index.js",
-  "module": "./dist/index.mjs",
-  "types": "./dist/index.d.ts",
-  "exports": {
-    ".": {
-      "require": "./dist/index.js",
-      "import": "./dist/index.mjs",
-      "types": "./dist/index.d.ts"
-    }
-  },
+  "name": "@halil-pan/algorithm",
+  "version": "0.0.0-semantic-release",
+  "description": "the practice of algorithms",
   "scripts": {
     "test": "xv dist",
     "lint": "xo",
-    "start": "esno src/index.ts",
     "dev": "tsup --watch",
     "build": "tsup",
     "prepare": "husky install"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/halil-pan/ts-lib-template.git"
+    "url": "git+https://github.com/halil-pan/algorithm.git"
   },
   "keywords": [
     "typescript",
@@ -31,9 +20,9 @@
   "author": "halil-pan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/halil-pan/ts-lib-template/issues"
+    "url": "https://github.com/halil-pan/algorithm/issues"
   },
-  "homepage": "https://github.com/halil-pan/ts-lib-template#readme",
+  "homepage": "https://github.com/halil-pan/algorithm#readme",
   "devDependencies": {
     "@commitlint/cli": "^15.0.0",
     "@commitlint/config-conventional": "^15.0.0",
