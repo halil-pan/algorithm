@@ -23,6 +23,12 @@
 - [two-numbers-sum](./src/two-numbers-sum.ts)
 - [binary-search-tree-k-value](./src/binary-search-tree-k-value.ts)
 - [fibonacci](./src/fibonacci.ts)
+- [move-zero](./src/move-zero.ts)
+- [continuous-char](./src/continuous-char.ts)
+- [quick-sort](./src/quick-sort.ts)
+- [palindrome-number](./src/palindrome-number.ts)
+- [thousands-format](./src/thousands-format.ts)
+- [switch-case](./src/switch-case.ts)
 
 ## License
 
