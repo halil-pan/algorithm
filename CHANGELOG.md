@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/halil-pan/algorithm/compare/v1.1.0...v1.2.0) (2022-05-04)
+
+
+### Features
+
+* continuous-char ([348d743](https://github.com/halil-pan/algorithm/commit/348d74349f08fa8fc11afc8d02508797107b28d2))
+* move-zero ([2c05b2d](https://github.com/halil-pan/algorithm/commit/2c05b2d3a2324d9e0e01ceb5f4313fe707fd4cc0))
+* palindrome-number ([0551c45](https://github.com/halil-pan/algorithm/commit/0551c457227ff9531590fdc33539fdaeec558cfc))
+* quick-sort ([b16eedd](https://github.com/halil-pan/algorithm/commit/b16eeddd10c70034bfa75b38efb2c9eef9ef97d6))
+* switch-case ([3947f61](https://github.com/halil-pan/algorithm/commit/3947f61d1df32da0db66edaf58f5256a762ae5f0))
+* thousands-format ([d09d615](https://github.com/halil-pan/algorithm/commit/d09d61556f877f1cf86a5ee76207a2cff994951e))
+
 # [1.1.0](https://github.com/halil-pan/algorithm/compare/v1.0.0...v1.1.0) (2022-05-04)
 
 
