@@ -18,6 +18,13 @@
 ## Index
 
 - [rotate-array](./src/rotate-array.ts)
+- [match-brackets](./src/match-brackets.ts)
+- [two-stacks-one-queue](./src/two-stacks-one-queue.ts)
+- [reverse-link-list](./src/reverse-link-list.ts)
+- [binary-search](./src/binary-search.ts)
+- [two-numbers-sum](./src/two-numbers-sum.ts)
+- [binary-search-tree-k-value](./src/binary-search-tree-k-value.ts)
+- [fibonacci](./src/fibonacci.ts)
 
 ## License
 
